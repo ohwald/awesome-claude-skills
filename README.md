@@ -466,6 +466,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [Skill History](https://github.com/ohwald/skill-history) - Wayback machine for Agent Skills: 1,200+ skills from 24 sources, side-by-side diff, commit-level history, daily snapshots ([live](https://ohwald.github.io/skill-history/))
 
 ### Inspiration & Use Cases
 
